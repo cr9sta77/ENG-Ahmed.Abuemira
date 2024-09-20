@@ -2,25 +2,7 @@ title: Name  # Ahmed Ibrahim Abuemira
 
 logo: 1.png # Use a relative path to logo image 
 
-description: More than 4 years IT specialist and management experience of public sector and large organizations projects
-(Emdad For Designs and Consultancies, SAK Developments, Alsahm for financial services, Hammers International).
--Hands on expertise in VOIP, WAN, LAN Networks, System Administration, Hardware and management.
--Good background of Information Technology infrastructure projects design, development and deployment.
--Active directory, Group policy, troubleshooting, networking.
--Develop and oversee the backup, replication and disaster recovery strategies.
--Maintain documentation for procedures, configurations and programs.
--Perform server hardware maintenance and upgrades.
--Maintain software repositories and apply software updates.
--Backup solutions.
--Office365 administration.
--Firewalls (FortiGate , Pfsense).
--Windows Server.
--Windows Share Server.
--VMware ESXI.
--CCTV (Installation , Troubleshoot).
--Cisco phones background.
--Grandstream.
--GoIP. # Fix hyphenation 
+description:  # Fix hyphenation 
 
 show_downloads: true # Fix spelling
 
