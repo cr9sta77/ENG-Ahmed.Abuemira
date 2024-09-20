@@ -30,7 +30,7 @@ More than 4 years IT specialist and management experience of public sector and l
 
 ## Experience
 **Hammers International** (from 2/6/2024 to 1/9/2024)   
-● IT Specialist 
+IT Specialist 
 -Manage Servers 2012, 2008 Active directories and create group policy for all users at company.
 -Backup solutions for shared folder files.
 -Training of support staff.
@@ -46,7 +46,7 @@ recording devices, and related equipment , Configure and program CCTV systems, i
 camera settings, recording modes, and network integration). 
 
 **Alsahm for financial services** (from 4/7/2021 to 30/5/2024)
-● IT Specialist 
+IT Specialist 
 - Remotely Configurations & troubleshooting with customers to determine their networking needs.
 - Analyzing existing VoIP networks and computer systems.
 - Installing network hardware modules including IP Phones, PBX, and Gateways devices.
@@ -55,7 +55,7 @@ camera settings, recording modes, and network integration).
 - Support, install, repair, order, upgrade of hardware printers, &software.
 
 **Emdad For Designs & Consultancies, SAK Developments** (from 1/2/2020 to 1/2/2021)
-● IT Help Desk
+IT Help Desk
 - Support, install, repair, order, upgrade of hardware printers, &software.
 - Strive to keep the IT work space on a high level
 - Support users for our Client
